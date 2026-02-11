@@ -27,6 +27,8 @@ Discord "may" be adding blink tests now, so let me now if they are and ill map t
 A browser-based tool that lets you control a 3D rigged avatar's head and mouth in real-time using a gamepad (DualSense, Xbox, etc.) or keyboard to skirt the discord juice, or soyjack with your favourite rigged models just for fun! 
 ***A model with mouth rigging is included in the assets folder!****
 
+### 🚀 [Try it live at https://oatelaus.github.io/discord-id-bypass-tool/](https://oatelaus.github.io/discord-id-bypass-tool/)
+
 https://github.com/user-attachments/assets/4aba4a67-9847-4d28-9c8c-4129a67e9332
 ### Features
 
@@ -40,11 +42,16 @@ https://github.com/user-attachments/assets/4aba4a67-9847-4d28-9c8c-4129a67e9332
 
 ## Quick Start
 
-1. Open `index.html` in your browser
-2. Load a rigged model (VRM, FBX, GLB) (FBX model included in the zip)
-3. Bones auto-detect — adjust in dropdowns if needed
-4. Use the **Morph Tester** to find and map the right mouth shape
-5. Control with gamepad or keyboard
+### Option 1: Use the Live Demo
+Visit **[https://oatelaus.github.io/discord-id-bypass-tool/](https://oatelaus.github.io/discord-id-bypass-tool/)** - no installation required!
+
+### Option 2: Run Locally
+1. Download or clone this repository
+2. Open `index.html` in your browser
+3. Load a rigged model (VRM, FBX, GLB) (FBX model included in the zip)
+4. Bones auto-detect — adjust in dropdowns if needed
+5. Use the **Morph Tester** to find and map the right mouth shape
+6. Control with gamepad or keyboard
 
 ## How to map the mouth to a controller
 You have to click eyeleft mouthopen for some reason first, then go to Wolfhead3Dhead mouth open, and that slider will work with the model included
